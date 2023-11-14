@@ -1,0 +1,42 @@
+
+.link,.signin{
+    display: inline-block;
+    margin: 2px;
+    
+}
+.img{
+    position: relative;
+    left: 35%;
+    top: 30px;
+}
+.search{
+    position: relative;
+    left: 25%;
+    top: 30px;
+    margin: 20px;
+}
+.b{
+    width: 500px;
+    border-radius: 20px;
+    margin: 23px;
+}
+.btn{
+    position: relative;
+    left: 38%;
+    top: 30px;
+    
+}
+p,a{
+    display: inline;
+    
+}
+.lang{
+    position: relative;
+    left: 28%;
+    top: 30px;
+    margin-top: 10px;
+    margin-bottom: 200px;
+}
+.bottom{
+    color: black;
+}
